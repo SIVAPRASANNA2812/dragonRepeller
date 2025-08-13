@@ -9,7 +9,7 @@ Built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 📸 Screenshot
-![Dragon Repeller Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
+![Dragon Repeller Screenshot](dragonRepellerScreenshot.jpg)<!-- Replace with actual screenshot if available -->
 
 ---
 
