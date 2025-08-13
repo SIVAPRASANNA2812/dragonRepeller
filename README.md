@@ -40,5 +40,4 @@ DragonRepeller/
 │   ├── dragon.jpg      # Your dragon background
 │
 ├── README.md           # Project description for GitHub
-└── LICENSE             # License (optional, e.g., MIT)
 
